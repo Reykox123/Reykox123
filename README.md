@@ -16,8 +16,13 @@ You can click the Preview link to take a look at your changes.
   <body>
 <style type ="text/html">
   <h1> HTML5 file </h1>
+<p> lenguaje en programación </p>
+<a href ="https://g.dev/CachorritoHunterBugs"> CachorritoHunterBugs </a>
   <h3>sintaxis </h3>
   <p> html <br> css <br> javascript </p>
   <button>repository</button>
+<script>
+alert ("Hello World") 
+</script>
  </body> 
 </html>
